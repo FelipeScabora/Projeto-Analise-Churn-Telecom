@@ -8,6 +8,8 @@
 
 Este projeto é um case de estudo de ponta a ponta que investiga as causas do churn (cancelamento de clientes) em uma empresa fictícia de telecomunicações. O objetivo foi transformar dados brutos em um dashboard interativo e em recomendações de negócio acionáveis, demonstrando um fluxo de trabalho completo de um analista de dados: da extração e validação dos dados com SQL, passando pelo ETL com Python, até a modelagem e storytelling visual no Power BI.
 
+📂 Os dados utilizados estão disponíveis na pasta [`/data`](./data/Telco_customer_churn.csv).
+
 ### A apresentação completa, com a análise detalhada dos "capítulos" e a navegação pelo dashboard, está documentada no meu portfólio no Notion:
 
 **[➡️ Ver a Apresentação e o Case Completo no Notion](https://ambiguous-network-282.notion.site/Reduzindo-o-Churn-Uma-An-lise-Estrat-gica-de-Dados-no-Telecom-22e993157e93802983b8de36fd11f0ae)**
@@ -52,8 +54,9 @@ Os visuais iniciais não comunicavam a história de forma clara, com eixos desor
 
 ---
 
-## Autor
+## 👤 Autor
 
 Feito por **Felipe Scabora**.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-scabora-85a698159/)
+
